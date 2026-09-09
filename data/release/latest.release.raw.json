@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5215399,
       "digest": "sha256:fbe364d1026cd8f01540a71aac715bca857d15eeb88c12df83266c61d651d021",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-03T21:18:13Z",
       "updated_at": "2026-09-03T21:18:13Z",
       "browser_download_url": "https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4342988,
       "digest": "sha256:4983f19310b5408a6e48432c73e135bebfcff8e2b80988c9d96a08982f9fa0a2",
-      "download_count": 81,
+      "download_count": 83,
       "created_at": "2026-09-03T21:18:13Z",
       "updated_at": "2026-09-03T21:18:14Z",
       "browser_download_url": "https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-x86_64-unknown-linux-gnu.tar.xz"
