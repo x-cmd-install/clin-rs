@@ -12,6 +12,17 @@ Feature-packed TUI note management app inspired by Obsidian
 x install clin-rs
 ```
 
+## Code insight
+
+Total: **72,491** lines of code across **168** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 72,157 | 1,295 | 5,430 | 137 |
+| Toml | 213 | 3 | 11 | 5 |
+| Nix | 121 | 0 | 16 | 3 |
+| Markdown | 0 | 3,878 | 1,382 | 23 |
+
 ## Source
 
 - **Upstream**: <https://github.com/reekta92/clin-rs>
@@ -22,6 +33,25 @@ x install clin-rs
 - **Latest**: `v0.13.0-testing.1` (2026-09-03)
 - **Last commit**: 2026-09-06
 - **Assets in release**: 14
+
+## Popularity
+
+- **Stars**: 537 · **Forks**: 14 · **Open issues**: 57 · **Contributors**: 8
+
+## Totals (cumulative)
+
+- **Releases**: 41 · **Merged PRs**: 68 · **Open PRs**: 1 · **Closed issues**: 53 · **Open issues**: 4 · **Commits**: 1137
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 8 | 11 | 1 | 3 | 3 | 127 |
+| last60d | 2026-07-12 | 10 | 23 | 1 | 15 | 3 | 394 |
+| 90d | 2026-06-12 | 32 | 56 | 1 | 40 | 4 | 809 |
+| last180d | 2026-03-14 | 41 | 68 | 1 | 53 | 4 | 1058 |
+| 360d | 2025-09-15 | 41 | 68 | 1 | 53 | 4 | 1058 |
+| last720d | 2024-09-20 | 41 | 68 | 1 | 53 | 4 | 1137 |
 
 ## Release assets
 
@@ -42,33 +72,6 @@ x install clin-rs
 | [clin-rs_0.12.0-1_arm64.deb](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs_0.12.0-1_arm64.deb) | 3.7 MiB | `runtime/deb/arm64` |
 | [SHA256SUMS](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/SHA256SUMS) | 1.3 KiB | `other` |
 
-## Popularity
-
-- **Stars**: 536 · **Forks**: 14 · **Open issues**: 57 · **Contributors**: 8
-
-## Totals (cumulative)
-
-- **Releases**: 41 · **Merged PRs**: 68 · **Open PRs**: 1 · **Closed issues**: 53 · **Open issues**: 4 · **Commits**: 1137
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 8 | 11 | 1 | 3 | 3 | 127 |
-| 90d | 2026-06-12 | 32 | 56 | 1 | 40 | 4 | 809 |
-| 360d | 2025-09-15 | 41 | 68 | 1 | 53 | 4 | 1058 |
-
-## Code size
-
-Total: **72,491** lines of code across **168** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 72,157 | 1,295 | 5,430 | 137 |
-| Toml | 213 | 3 | 11 | 5 |
-| Nix | 121 | 0 | 16 | 3 |
-| Markdown | 0 | 3,878 | 1,382 | 23 |
-
 ## Improve this data
 
 Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `clin-rs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +81,4 @@ Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:47:58Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:45:26Z._
