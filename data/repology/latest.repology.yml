@@ -1,0 +1,25 @@
+- repo: aur
+  srcname: clin-rs
+  binname: clin-rs
+  visiblename: clin-rs
+  version: 0.12.0
+  origversion: 0.12.0-1
+  status: unique
+  summary: Feature-packed TUI note management app inspired by Obsidian
+  maintainers:
+    - integral@aur
+    - lilac@aur
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: clin-rs-bin
+  binname: clin-rs-bin
+  visiblename: clin-rs-bin
+  version: 0.12.0
+  origversion: 0.12.0-1
+  status: unique
+  summary: Encrypted terminal note-taking app
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - GPL-3.0

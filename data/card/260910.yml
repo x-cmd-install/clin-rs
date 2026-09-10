@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.13.0-testing.1"
   latestRelease: "v0.12.0"
   latestPrerelease: "v0.13.0-testing.1"
-  collectedAt: 2026-09-10T16:47:44Z
+  collectedAt: 2026-09-10T20:45:17Z
 timeline:
   created: 2026-03-17
   lastCommit: 2026-09-06
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-03
   lastPrerelease: 2026-09-06
 popularity:
-  star: 536
+  star: 537
   watcher: 2
   fork: 14
   release: 41
@@ -85,7 +85,7 @@ total:
   commit: 1137
 ---
 path: /home/runner/.x-repo/github.com/reekta92/clin-rs
-collectedAt: 2026-09-10T16:47:48Z
+collectedAt: 2026-09-10T20:45:19Z
 loc:
   Rust:
     code: 72157
