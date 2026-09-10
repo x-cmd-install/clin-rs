@@ -4,7 +4,7 @@
 
 Feature-packed TUI note management app inspired by Obsidian
 
-![clin-rs](https://repo.x-cmd.io/clin-rs.svg)
+![clin-rs](https://repo.x-cmd.io/clin-rs.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,29 @@ x install clin-rs
 - **最新版本**: `v0.13.0-testing.1` (2026-09-03)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 14 个
-- **发布时间**: 2026-09-03T21:18:15Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [clin-rs-0.12.0-1.aarch64.rpm](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-0.12.0-1.aarch64.rpm) | 4.3 MiB | `runtime/rpm/aarch64` |
+| [clin-rs-0.12.0-1.x86_64.rpm](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-0.12.0-1.x86_64.rpm) | 4.4 MiB | `runtime/rpm/x86_64` |
+| [clin-rs-0.12.0-x86_64.AppImage](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-0.12.0-x86_64.AppImage) | 8.0 MiB | `other` |
+| [clin-rs-aarch64-apple-darwin.dmg](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-aarch64-apple-darwin.dmg) | 5.3 MiB | `native/darwin/arm64` |
+| [clin-rs-aarch64-apple-darwin.tar.gz](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [clin-rs-aarch64-apple-darwin.tar.xz](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-aarch64-apple-darwin.tar.xz) | 3.3 MiB | `native/darwin/arm64` |
+| [clin-rs-aarch64-unknown-linux-gnu.tar.gz](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-aarch64-unknown-linux-gnu.tar.gz) | 5.4 MiB | `native/linux/arm64/glibc` |
+| [clin-rs-aarch64-unknown-linux-gnu.tar.xz](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-aarch64-unknown-linux-gnu.tar.xz) | 3.7 MiB | `native/linux/arm64/glibc` |
+| [clin-rs-x86_64-pc-windows-msvc.zip](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-x86_64-pc-windows-msvc.zip) | 5.0 MiB | `native/win/x64` |
+| [clin-rs-x86_64-unknown-linux-gnu.tar.gz](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-x86_64-unknown-linux-gnu.tar.gz) | 5.7 MiB | `native/linux/x64/glibc` |
+| [clin-rs-x86_64-unknown-linux-gnu.tar.xz](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs-x86_64-unknown-linux-gnu.tar.xz) | 4.1 MiB | `native/linux/x64/glibc` |
+| [clin-rs_0.12.0-1_amd64.deb](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs_0.12.0-1_amd64.deb) | 4.1 MiB | `runtime/deb/amd64` |
+| [clin-rs_0.12.0-1_arm64.deb](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/clin-rs_0.12.0-1_arm64.deb) | 3.7 MiB | `runtime/deb/arm64` |
+| [SHA256SUMS](https://github.com/reekta92/clin-rs/releases/download/v0.12.0/SHA256SUMS) | 1.3 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 533 · **Fork**: 14 · **开放 issue**: 57 · **贡献者**: 8
+- **Star**: 536 · **Fork**: 14 · **开放 issue**: 57 · **贡献者**: 8
 
 ## 累计统计
 
@@ -60,4 +78,4 @@ clin-rs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:07:47Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:47:58Z._
