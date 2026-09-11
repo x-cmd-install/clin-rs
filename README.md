@@ -46,12 +46,12 @@ Total: **72,491** lines of code across **168** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 8 | 11 | 1 | 3 | 3 | 127 |
-| last60d | 2026-07-12 | 10 | 23 | 1 | 15 | 3 | 394 |
-| 90d | 2026-06-12 | 32 | 56 | 1 | 40 | 4 | 809 |
-| last180d | 2026-03-14 | 41 | 68 | 1 | 53 | 4 | 1058 |
-| 360d | 2025-09-15 | 41 | 68 | 1 | 53 | 4 | 1058 |
-| last720d | 2024-09-20 | 41 | 68 | 1 | 53 | 4 | 1137 |
+| 30d | 2026-08-12 | 7 | 8 | 1 | 3 | 3 | 127 |
+| last60d | 2026-07-13 | 10 | 22 | 1 | 14 | 3 | 394 |
+| 90d | 2026-06-13 | 32 | 54 | 1 | 40 | 4 | 809 |
+| last180d | 2026-03-15 | 41 | 68 | 1 | 53 | 4 | 1058 |
+| 360d | 2025-09-16 | 41 | 68 | 1 | 53 | 4 | 1058 |
+| last720d | 2024-09-21 | 41 | 68 | 1 | 53 | 4 | 1137 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:05:31Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:15:57Z._
