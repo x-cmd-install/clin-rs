@@ -4,7 +4,7 @@
 
 Feature-packed TUI note management app inspired by Obsidian
 
-![clin-rs](https://repo.x-cmd.io/clin-rs.svg)
+[![x-cmd/install — clin-rs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/clin-rs.svg)](https://x-cmd.com/install/clin-rs)
 
 ## Install
 
@@ -36,22 +36,22 @@ Total: **68,104** lines of code across **160** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 542 · **Forks**: 15 · **Open issues**: 59 · **Contributors**: 8
+- **Stars**: 544 · **Forks**: 15 · **Open issues**: 62 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 75 · **Open PRs**: 2 · **Closed issues**: 57 · **Open issues**: 2 · **Commits**: 1190
+- **Releases**: 42 · **Merged PRs**: 75 · **Open PRs**: 4 · **Closed issues**: 56 · **Open issues**: 6 · **Commits**: 1190
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 10 | 2 | 5 | 1 | 59 |
-| last60d | 2026-07-20 | 10 | 27 | 2 | 14 | 1 | 347 |
-| 90d | 2026-06-20 | 24 | 39 | 2 | 36 | 2 | 726 |
-| last180d | 2026-03-22 | 41 | 70 | 2 | 54 | 2 | 1091 |
-| 360d | 2025-09-23 | 42 | 75 | 2 | 57 | 2 | 1102 |
-| last720d | 2024-09-28 | 42 | 75 | 2 | 57 | 2 | 1190 |
+| 30d | 2026-08-21 | 4 | 8 | 4 | 4 | 5 | 57 |
+| last60d | 2026-07-22 | 10 | 27 | 4 | 13 | 5 | 265 |
+| 90d | 2026-06-22 | 19 | 37 | 4 | 34 | 6 | 605 |
+| last180d | 2026-03-24 | 40 | 70 | 4 | 53 | 6 | 1074 |
+| 360d | 2025-09-25 | 42 | 75 | 4 | 56 | 6 | 1102 |
+| last720d | 2024-09-30 | 42 | 75 | 4 | 56 | 6 | 1190 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:11:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:18:56Z._
