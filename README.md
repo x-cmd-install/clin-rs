@@ -4,7 +4,7 @@
 
 Feature-packed TUI note management app inspired by Obsidian
 
-[![x-cmd/install — clin-rs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/clin-rs.svg)](https://x-cmd.com/install/clin-rs)
+[![x-cmd/install — clin-rs Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/clin-rs.svg)](https://x-cmd.com/install/clin-rs)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install clin-rs
 
 ## Code insight
 
-Total: **68,958** lines of code across **157** files in the top 5 languages.
+Total: **68,961** lines of code across **157** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 68,613 | 1,274 | 5,121 | 126 |
+| Rust | 68,616 | 1,275 | 5,121 | 126 |
 | Toml | 221 | 3 | 11 | 5 |
 | Nix | 124 | 0 | 16 | 3 |
 | Markdown | 0 | 3,978 | 1,416 | 23 |
@@ -31,27 +31,27 @@ Total: **68,958** lines of code across **157** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.0-testing.2` (2026-09-03)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-22
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 545 · **Forks**: 15 · **Open issues**: 62 · **Contributors**: 8
+- **Stars**: 548 · **Forks**: 15 · **Open issues**: 62 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 80 · **Open PRs**: 0 · **Closed issues**: 59 · **Open issues**: 3 · **Commits**: 1211
+- **Releases**: 42 · **Merged PRs**: 80 · **Open PRs**: 0 · **Closed issues**: 59 · **Open issues**: 3 · **Commits**: 1212
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 13 | 0 | 7 | 2 | 73 |
-| last60d | 2026-07-24 | 10 | 32 | 0 | 15 | 2 | 281 |
-| 90d | 2026-06-24 | 18 | 42 | 0 | 36 | 3 | 621 |
-| last180d | 2026-03-26 | 40 | 75 | 0 | 56 | 3 | 1090 |
-| 360d | 2025-09-27 | 42 | 80 | 0 | 59 | 3 | 1118 |
-| last720d | 2024-10-02 | 42 | 80 | 0 | 59 | 3 | 1211 |
+| 30d | 2026-08-24 | 3 | 13 | 0 | 7 | 2 | 74 |
+| last60d | 2026-07-25 | 10 | 29 | 0 | 14 | 2 | 282 |
+| 90d | 2026-06-25 | 18 | 42 | 0 | 31 | 2 | 622 |
+| last180d | 2026-03-27 | 40 | 75 | 0 | 56 | 3 | 1091 |
+| 360d | 2025-09-28 | 42 | 80 | 0 | 59 | 3 | 1119 |
+| last720d | 2024-10-03 | 42 | 80 | 0 | 59 | 3 | 1212 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:23:10Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:17:58Z._

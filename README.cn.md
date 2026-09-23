@@ -4,7 +4,7 @@
 
 Feature-packed TUI note management app inspired by Obsidian
 
-[![x-cmd/install — clin-rs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/clin-rs.svg?lang=zh)](https://x-cmd.com/install/clin-rs)
+[![x-cmd/install — clin-rs Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/clin-rs.svg?lang=zh)](https://x-cmd.com/install/clin-rs)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install clin-rs
 
 ## 代码洞察
 
-合计: **68,958** 行代码（覆盖前 5 种语言、共 **157** 个文件）。
+合计: **68,961** 行代码（覆盖前 5 种语言、共 **157** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 68,613 | 1,274 | 5,121 | 126 |
+| Rust | 68,616 | 1,275 | 5,121 | 126 |
 | Toml | 221 | 3 | 11 | 5 |
 | Nix | 124 | 0 | 16 | 3 |
 | Markdown | 0 | 3,978 | 1,416 | 23 |
@@ -31,27 +31,27 @@ x install clin-rs
 ## 发布
 
 - **最新版本**: `v0.13.0-testing.2` (2026-09-03)
-- **最近提交**: 2026-09-20
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 545 · **Fork**: 15 · **开放 issue**: 62 · **贡献者**: 8
+- **Star**: 548 · **Fork**: 15 · **开放 issue**: 62 · **贡献者**: 8
 
 ## 累计统计
 
-- **发布数**: 42 · **已合并 PR**: 80 · **开放 PR**: 0 · **已关闭 issue**: 59 · **开放 issue**: 3 · **提交数**: 1211
+- **发布数**: 42 · **已合并 PR**: 80 · **开放 PR**: 0 · **已关闭 issue**: 59 · **开放 issue**: 3 · **提交数**: 1212
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 13 | 0 | 7 | 2 | 73 |
-| last60d | 2026-07-24 | 10 | 32 | 0 | 15 | 2 | 281 |
-| 90d | 2026-06-24 | 18 | 42 | 0 | 36 | 3 | 621 |
-| last180d | 2026-03-26 | 40 | 75 | 0 | 56 | 3 | 1090 |
-| 360d | 2025-09-27 | 42 | 80 | 0 | 59 | 3 | 1118 |
-| last720d | 2024-10-02 | 42 | 80 | 0 | 59 | 3 | 1211 |
+| 30d | 2026-08-24 | 3 | 13 | 0 | 7 | 2 | 74 |
+| last60d | 2026-07-25 | 10 | 29 | 0 | 14 | 2 | 282 |
+| 90d | 2026-06-25 | 18 | 42 | 0 | 31 | 2 | 622 |
+| last180d | 2026-03-27 | 40 | 75 | 0 | 56 | 3 | 1091 |
+| 360d | 2025-09-28 | 42 | 80 | 0 | 59 | 3 | 1119 |
+| last720d | 2024-10-03 | 42 | 80 | 0 | 59 | 3 | 1212 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ clin-rs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:23:11Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:17:59Z._
