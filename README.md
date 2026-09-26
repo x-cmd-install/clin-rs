@@ -21,7 +21,7 @@ Total: **68,961** lines of code across **157** files in the top 5 languages.
 | Rust | 68,616 | 1,275 | 5,121 | 126 |
 | Toml | 221 | 3 | 11 | 5 |
 | Nix | 124 | 0 | 16 | 3 |
-| Markdown | 0 | 4,002 | 1,428 | 23 |
+| Markdown | 0 | 4,005 | 1,429 | 23 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **68,961** lines of code across **157** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.0` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-25
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 552 · **Forks**: 15 · **Open issues**: 63 · **Contributors**: 8
+- **Stars**: 553 · **Forks**: 15 · **Open issues**: 64 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 80 · **Open PRs**: 0 · **Closed issues**: 59 · **Open issues**: 4 · **Commits**: 1214
+- **Releases**: 41 · **Merged PRs**: 80 · **Open PRs**: 0 · **Closed issues**: 59 · **Open issues**: 5 · **Commits**: 1216
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 4 | 13 | 0 | 7 | 3 | 76 |
-| last60d | 2026-07-27 | 11 | 29 | 0 | 11 | 3 | 284 |
-| 90d | 2026-06-27 | 19 | 39 | 0 | 29 | 3 | 624 |
-| last180d | 2026-03-29 | 41 | 74 | 0 | 56 | 4 | 1093 |
-| 360d | 2025-09-30 | 43 | 80 | 0 | 59 | 4 | 1121 |
-| last720d | 2024-10-05 | 43 | 80 | 0 | 59 | 4 | 1214 |
+| 30d | 2026-08-27 | 2 | 13 | 0 | 7 | 4 | 0 |
+| last60d | 2026-07-28 | 9 | 29 | 0 | 11 | 4 | 0 |
+| 90d | 2026-06-28 | 16 | 39 | 0 | 29 | 4 | 0 |
+| last180d | 2026-03-30 | 39 | 74 | 0 | 56 | 5 | 0 |
+| 360d | 2025-10-01 | 41 | 80 | 0 | 59 | 5 | 0 |
+| last720d | 2024-10-06 | 41 | 80 | 0 | 59 | 5 | 1216 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:23:05Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:13:15Z._
