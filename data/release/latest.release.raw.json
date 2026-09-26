@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4890503,
       "digest": "sha256:b73a21b7eeb9444494f43567ba7348b32d6bdb407f6d3a81172e83a7cb013173",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-23T14:34:14Z",
       "updated_at": "2026-09-23T14:34:14Z",
       "browser_download_url": "https://github.com/reekta92/clin-rs/releases/download/v0.13.0/clin-rs-0.13.0-1.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8869056,
       "digest": "sha256:9f616e5e1c52c5a452dce17d3ac3531349907c06e2355d606b95a17d7ef2651d",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-23T14:34:14Z",
       "updated_at": "2026-09-23T14:34:14Z",
       "browser_download_url": "https://github.com/reekta92/clin-rs/releases/download/v0.13.0/clin-rs-0.13.0-x86_64.AppImage"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5564421,
       "digest": "sha256:0d7c226e96f2f632e506b3947bf7c471cbef87af3d1b6fe6dfc7211a926e18ad",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-09-23T14:34:14Z",
       "updated_at": "2026-09-23T14:34:15Z",
       "browser_download_url": "https://github.com/reekta92/clin-rs/releases/download/v0.13.0/clin-rs-aarch64-apple-darwin.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5675914,
       "digest": "sha256:b2f3c89c05b215025b259365a18e5e765407a1a95562b8298a6a899deff0c1cd",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-23T14:34:14Z",
       "updated_at": "2026-09-23T14:34:15Z",
       "browser_download_url": "https://github.com/reekta92/clin-rs/releases/download/v0.13.0/clin-rs-x86_64-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6521818,
       "digest": "sha256:3605fedcfc913f2aa290613caae82ce8d21083bfc91ea49c938bb9c512448044",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-09-23T14:34:15Z",
       "updated_at": "2026-09-23T14:34:16Z",
       "browser_download_url": "https://github.com/reekta92/clin-rs/releases/download/v0.13.0/clin-rs-x86_64-unknown-linux-gnu.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4548336,
       "digest": "sha256:25fab8013b877772677fad07f071ed8d870f5dd755a0fd1b9b53a16cc50f05ef",
-      "download_count": 40,
+      "download_count": 53,
       "created_at": "2026-09-23T14:34:15Z",
       "updated_at": "2026-09-23T14:34:16Z",
       "browser_download_url": "https://github.com/reekta92/clin-rs/releases/download/v0.13.0/clin-rs-x86_64-unknown-linux-gnu.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 4533912,
       "digest": "sha256:624b83314e3024d23a8a101a2be6cb304f0b7f80f8c4639c216b80fb0265a65d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-23T14:34:15Z",
       "updated_at": "2026-09-23T14:34:16Z",
       "browser_download_url": "https://github.com/reekta92/clin-rs/releases/download/v0.13.0/clin-rs_0.13.0-1_amd64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1302,
       "digest": "sha256:ef7090ddc484ddad4363e84a7005566c3b429284ea9d10ab1ce5feff68917330",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-23T14:34:14Z",
       "updated_at": "2026-09-23T14:34:14Z",
       "browser_download_url": "https://github.com/reekta92/clin-rs/releases/download/v0.13.0/SHA256SUMS"
