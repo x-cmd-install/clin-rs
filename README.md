@@ -14,14 +14,14 @@ x install clin-rs
 
 ## Code insight
 
-Total: **69,031** lines of code across **157** files in the top 5 languages.
+Total: **69,044** lines of code across **157** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 68,686 | 1,285 | 5,126 | 126 |
+| Rust | 68,699 | 1,285 | 5,126 | 126 |
 | Toml | 221 | 3 | 11 | 5 |
 | Nix | 124 | 0 | 16 | 3 |
-| Markdown | 0 | 4,015 | 1,437 | 23 |
+| Markdown | 0 | 4,025 | 1,445 | 23 |
 
 ## Source
 
@@ -30,47 +30,47 @@ Total: **69,031** lines of code across **157** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.13.1` (2026-09-29)
-- **Last commit**: 2026-09-29
+- **Latest**: `v0.13.2` (2026-10-02)
+- **Last commit**: 2026-10-02
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 558 · **Forks**: 16 · **Open issues**: 67 · **Contributors**: 8
+- **Stars**: 559 · **Forks**: 16 · **Open issues**: 67 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 82 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 6 · **Commits**: 1223
+- **Releases**: 43 · **Merged PRs**: 83 · **Open PRs**: 1 · **Closed issues**: 62 · **Open issues**: 5 · **Commits**: 1230
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 3 | 14 | 1 | 9 | 4 | 71 |
-| last60d | 2026-08-03 | 10 | 29 | 1 | 13 | 5 | 284 |
-| 90d | 2026-07-04 | 15 | 39 | 1 | 26 | 5 | 582 |
-| last180d | 2026-04-05 | 38 | 72 | 1 | 52 | 6 | 1005 |
-| 360d | 2025-10-07 | 42 | 82 | 1 | 61 | 6 | 1128 |
-| last720d | 2024-10-12 | 42 | 82 | 1 | 61 | 6 | 1223 |
+| 30d | 2026-09-03 | 4 | 15 | 1 | 10 | 3 | 77 |
+| last60d | 2026-08-04 | 10 | 30 | 1 | 14 | 4 | 290 |
+| 90d | 2026-07-05 | 16 | 39 | 1 | 26 | 4 | 588 |
+| last180d | 2026-04-06 | 39 | 73 | 1 | 50 | 5 | 1011 |
+| 360d | 2025-10-08 | 43 | 83 | 1 | 62 | 5 | 1134 |
+| last720d | 2024-10-13 | 43 | 83 | 1 | 62 | 5 | 1230 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [clin-rs-0.13.1-1.aarch64.rpm](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs-0.13.1-1.aarch64.rpm) | 4.5 MiB | `runtime/rpm/aarch64` |
-| [clin-rs-0.13.1-1.x86_64.rpm](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs-0.13.1-1.x86_64.rpm) | 4.7 MiB | `runtime/rpm/x86_64` |
-| [clin-rs-0.13.1-x86_64.AppImage](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs-0.13.1-x86_64.AppImage) | 8.5 MiB | `other` |
-| [clin-rs-aarch64-apple-darwin.dmg](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs-aarch64-apple-darwin.dmg) | 5.8 MiB | `native/darwin/arm64` |
-| [clin-rs-aarch64-apple-darwin.tar.gz](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs-aarch64-apple-darwin.tar.gz) | 5.3 MiB | `native/darwin/arm64` |
-| [clin-rs-aarch64-apple-darwin.tar.xz](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs-aarch64-apple-darwin.tar.xz) | 3.5 MiB | `native/darwin/arm64` |
-| [clin-rs-aarch64-unknown-linux-gnu.tar.gz](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs-aarch64-unknown-linux-gnu.tar.gz) | 5.9 MiB | `native/linux/arm64/glibc` |
-| [clin-rs-aarch64-unknown-linux-gnu.tar.xz](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs-aarch64-unknown-linux-gnu.tar.xz) | 3.9 MiB | `native/linux/arm64/glibc` |
-| [clin-rs-x86_64-pc-windows-msvc.zip](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs-x86_64-pc-windows-msvc.zip) | 5.4 MiB | `native/win/x64` |
-| [clin-rs-x86_64-unknown-linux-gnu.tar.gz](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs-x86_64-unknown-linux-gnu.tar.gz) | 6.2 MiB | `native/linux/x64/glibc` |
-| [clin-rs-x86_64-unknown-linux-gnu.tar.xz](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs-x86_64-unknown-linux-gnu.tar.xz) | 4.3 MiB | `native/linux/x64/glibc` |
-| [clin-rs_0.13.1-1_amd64.deb](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs_0.13.1-1_amd64.deb) | 4.3 MiB | `runtime/deb/amd64` |
-| [clin-rs_0.13.1-1_arm64.deb](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/clin-rs_0.13.1-1_arm64.deb) | 3.9 MiB | `runtime/deb/arm64` |
-| [SHA256SUMS](https://github.com/reekta92/clin-rs/releases/download/v0.13.1/SHA256SUMS) | 1.3 KiB | `other` |
+| [clin-rs-0.13.2-1.aarch64.rpm](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs-0.13.2-1.aarch64.rpm) | 4.5 MiB | `runtime/rpm/aarch64` |
+| [clin-rs-0.13.2-1.x86_64.rpm](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs-0.13.2-1.x86_64.rpm) | 4.7 MiB | `runtime/rpm/x86_64` |
+| [clin-rs-0.13.2-x86_64.AppImage](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs-0.13.2-x86_64.AppImage) | 8.5 MiB | `other` |
+| [clin-rs-aarch64-apple-darwin.dmg](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs-aarch64-apple-darwin.dmg) | 5.8 MiB | `native/darwin/arm64` |
+| [clin-rs-aarch64-apple-darwin.tar.gz](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs-aarch64-apple-darwin.tar.gz) | 5.3 MiB | `native/darwin/arm64` |
+| [clin-rs-aarch64-apple-darwin.tar.xz](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs-aarch64-apple-darwin.tar.xz) | 3.5 MiB | `native/darwin/arm64` |
+| [clin-rs-aarch64-unknown-linux-gnu.tar.gz](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs-aarch64-unknown-linux-gnu.tar.gz) | 5.9 MiB | `native/linux/arm64/glibc` |
+| [clin-rs-aarch64-unknown-linux-gnu.tar.xz](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs-aarch64-unknown-linux-gnu.tar.xz) | 3.9 MiB | `native/linux/arm64/glibc` |
+| [clin-rs-x86_64-pc-windows-msvc.zip](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs-x86_64-pc-windows-msvc.zip) | 5.4 MiB | `native/win/x64` |
+| [clin-rs-x86_64-unknown-linux-gnu.tar.gz](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs-x86_64-unknown-linux-gnu.tar.gz) | 6.2 MiB | `native/linux/x64/glibc` |
+| [clin-rs-x86_64-unknown-linux-gnu.tar.xz](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs-x86_64-unknown-linux-gnu.tar.xz) | 4.4 MiB | `native/linux/x64/glibc` |
+| [clin-rs_0.13.2-1_amd64.deb](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs_0.13.2-1_amd64.deb) | 4.4 MiB | `runtime/deb/amd64` |
+| [clin-rs_0.13.2-1_arm64.deb](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/clin-rs_0.13.2-1_arm64.deb) | 3.9 MiB | `runtime/deb/arm64` |
+| [SHA256SUMS](https://github.com/reekta92/clin-rs/releases/download/v0.13.2/SHA256SUMS) | 1.3 KiB | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:01:59Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:43:36Z._
