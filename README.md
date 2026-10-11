@@ -14,14 +14,14 @@ x install clin-rs
 
 ## Code insight
 
-Total: **71,487** lines of code across **157** files in the top 5 languages.
+Total: **71,435** lines of code across **157** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 71,142 | 1,332 | 5,272 | 126 |
+| Rust | 71,090 | 1,333 | 5,280 | 126 |
 | Toml | 221 | 3 | 11 | 5 |
 | Nix | 124 | 0 | 16 | 3 |
-| Markdown | 0 | 4,060 | 1,456 | 23 |
+| Markdown | 0 | 4,131 | 1,495 | 23 |
 
 ## Source
 
@@ -31,7 +31,7 @@ Total: **71,487** lines of code across **157** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.2` (2026-10-02)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-10
 - **Assets in release**: 14
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **71,487** lines of code across **157** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 85 · **Open PRs**: 1 · **Closed issues**: 63 · **Open issues**: 7 · **Commits**: 1254
+- **Releases**: 43 · **Merged PRs**: 92 · **Open PRs**: 1 · **Closed issues**: 64 · **Open issues**: 6 · **Commits**: 1276
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 3 | 16 | 1 | 8 | 5 | 83 |
-| last60d | 2026-08-11 | 10 | 28 | 1 | 13 | 6 | 269 |
-| 90d | 2026-07-12 | 12 | 40 | 1 | 25 | 6 | 554 |
-| last180d | 2026-04-13 | 39 | 75 | 1 | 50 | 7 | 1027 |
-| 360d | 2025-10-15 | 43 | 85 | 1 | 63 | 7 | 1154 |
-| last720d | 2024-10-20 | 43 | 85 | 1 | 63 | 7 | 1254 |
+| 30d | 2026-09-11 | 3 | 23 | 1 | 9 | 4 | 67 |
+| last60d | 2026-08-12 | 9 | 32 | 1 | 14 | 5 | 141 |
+| 90d | 2026-07-13 | 12 | 46 | 1 | 25 | 5 | 422 |
+| last180d | 2026-04-14 | 39 | 82 | 1 | 51 | 6 | 1033 |
+| 360d | 2025-10-16 | 43 | 92 | 1 | 64 | 6 | 1169 |
+| last720d | 2024-10-21 | 43 | 92 | 1 | 64 | 6 | 1276 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:06:37Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:09:33Z._
