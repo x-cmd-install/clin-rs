@@ -14,13 +14,13 @@ x install clin-rs
 
 ## Code insight
 
-Total: **97,917** lines of code across **192** files in the top 5 languages.
+Total: **98,029** lines of code across **192** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 97,268 | 1,282 | 5,409 | 179 |
-| Toml | 310 | 8 | 16 | 8 |
-| Nix | 127 | 0 | 16 | 3 |
+| Rust | 97,389 | 1,278 | 5,413 | 179 |
+| Toml | 302 | 7 | 15 | 8 |
+| Nix | 126 | 0 | 16 | 3 |
 | Svg | 62 | 1 | 1 | 1 |
 | Python | 57 | 1 | 8 | 1 |
 
@@ -31,28 +31,28 @@ Total: **97,917** lines of code across **192** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.14.0-beta.1` (2026-10-02)
-- **Last commit**: 2026-10-20
+- **Latest**: `v0.14.0-beta.2` (2026-10-02)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 570 · **Forks**: 18 · **Open issues**: 72 · **Contributors**: 8
+- **Stars**: 572 · **Forks**: 18 · **Open issues**: 72 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 102 · **Open PRs**: 0 · **Closed issues**: 70 · **Open issues**: 2 · **Commits**: 1404
+- **Releases**: 46 · **Merged PRs**: 106 · **Open PRs**: 0 · **Closed issues**: 71 · **Open issues**: 1 · **Commits**: 1413
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 5 | 22 | 0 | 9 | 1 | 160 |
-| last60d | 2026-08-22 | 7 | 35 | 0 | 17 | 2 | 236 |
-| 90d | 2026-07-23 | 13 | 54 | 0 | 26 | 2 | 452 |
-| last180d | 2026-04-24 | 40 | 92 | 0 | 57 | 2 | 1145 |
-| 360d | 2025-10-26 | 45 | 102 | 0 | 70 | 2 | 1281 |
-| last720d | 2024-10-31 | 45 | 102 | 0 | 70 | 2 | 1404 |
+| 30d | 2026-09-22 | 6 | 26 | 0 | 10 | 0 | 168 |
+| last60d | 2026-08-23 | 7 | 39 | 0 | 18 | 1 | 244 |
+| 90d | 2026-07-24 | 14 | 58 | 0 | 26 | 1 | 460 |
+| last180d | 2026-04-25 | 41 | 96 | 0 | 58 | 1 | 1153 |
+| 360d | 2025-10-27 | 46 | 106 | 0 | 71 | 1 | 1289 |
+| last720d | 2024-11-01 | 46 | 106 | 0 | 71 | 1 | 1413 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:03:03Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:03:00Z._
