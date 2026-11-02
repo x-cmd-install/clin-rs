@@ -32,27 +32,27 @@ Total: **110,525** lines of code across **211** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.14.0-rc.2` (2026-10-02)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-01
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 574 · **Forks**: 19 · **Open issues**: 76 · **Contributors**: 8
+- **Stars**: 575 · **Forks**: 19 · **Open issues**: 76 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 131 · **Open PRs**: 4 · **Closed issues**: 75 · **Open issues**: 1 · **Commits**: 1444
+- **Releases**: 45 · **Merged PRs**: 132 · **Open PRs**: 3 · **Closed issues**: 75 · **Open issues**: 1 · **Commits**: 1445
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 3 | 47 | 4 | 8 | 1 | 167 |
-| last60d | 2026-09-02 | 6 | 63 | 4 | 21 | 1 | 249 |
-| 90d | 2026-08-03 | 13 | 78 | 4 | 26 | 1 | 468 |
-| last180d | 2026-05-05 | 38 | 119 | 4 | 62 | 1 | 1129 |
-| 360d | 2025-11-06 | 45 | 131 | 4 | 75 | 1 | 1320 |
-| last720d | 2024-11-11 | 45 | 131 | 4 | 75 | 1 | 1444 |
+| 30d | 2026-10-03 | 2 | 48 | 3 | 8 | 1 | 167 |
+| last60d | 2026-09-03 | 6 | 64 | 3 | 21 | 1 | 249 |
+| 90d | 2026-08-04 | 12 | 79 | 3 | 26 | 1 | 468 |
+| last180d | 2026-05-06 | 38 | 120 | 3 | 62 | 1 | 1129 |
+| 360d | 2025-11-07 | 45 | 132 | 3 | 75 | 1 | 1320 |
+| last720d | 2024-11-12 | 45 | 132 | 3 | 75 | 1 | 1445 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:23:51Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:26:18Z._
