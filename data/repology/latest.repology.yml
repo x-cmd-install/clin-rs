@@ -2,8 +2,8 @@
   srcname: clin-rs
   binname: clin-rs
   visiblename: clin-rs
-  version: 0.13.2
-  origversion: 0.13.2-1
+  version: 0.14.1
+  origversion: 0.14.1-1
   status: unique
   summary: Feature-packed TUI note management app inspired by Obsidian
   maintainers:
@@ -15,8 +15,8 @@
   srcname: clin-rs-bin
   binname: clin-rs-bin
   visiblename: clin-rs-bin
-  version: 0.13.2
-  origversion: 0.13.2-1
+  version: 0.14.1
+  origversion: 0.14.1-1
   status: unique
   summary: Encrypted terminal note-taking app
   maintainers:
