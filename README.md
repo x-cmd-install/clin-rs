@@ -32,27 +32,27 @@ Total: **110,709** lines of code across **213** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.14.1` (2026-11-06)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-08
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 580 · **Forks**: 18 · **Open issues**: 76 · **Contributors**: 8
+- **Stars**: 584 · **Forks**: 18 · **Open issues**: 76 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 142 · **Open PRs**: 5 · **Closed issues**: 75 · **Open issues**: 1 · **Commits**: 1459
+- **Releases**: 45 · **Merged PRs**: 146 · **Open PRs**: 1 · **Closed issues**: 75 · **Open issues**: 1 · **Commits**: 1464
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 57 | 5 | 5 | 1 | 125 |
-| last60d | 2026-09-09 | 5 | 73 | 5 | 18 | 1 | 262 |
-| 90d | 2026-08-10 | 12 | 87 | 5 | 25 | 1 | 343 |
-| last180d | 2026-05-12 | 36 | 130 | 5 | 62 | 1 | 1136 |
-| 360d | 2025-11-13 | 45 | 142 | 5 | 75 | 1 | 1334 |
-| last720d | 2024-11-18 | 45 | 142 | 5 | 75 | 1 | 1459 |
+| 30d | 2026-10-10 | 2 | 54 | 1 | 5 | 1 | 130 |
+| last60d | 2026-09-10 | 5 | 77 | 1 | 18 | 1 | 267 |
+| 90d | 2026-08-11 | 12 | 89 | 1 | 24 | 1 | 348 |
+| last180d | 2026-05-13 | 36 | 134 | 1 | 62 | 1 | 1141 |
+| 360d | 2025-11-14 | 45 | 146 | 1 | 75 | 1 | 1339 |
+| last720d | 2024-11-19 | 45 | 146 | 1 | 75 | 1 | 1464 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:22:14Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:50:57Z._
