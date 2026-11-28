@@ -37,22 +37,22 @@ Total: **111,648** lines of code across **215** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 592 · **Forks**: 18 · **Open issues**: 87 · **Contributors**: 7
+- **Stars**: 592 · **Forks**: 18 · **Open issues**: 88 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 162 · **Open PRs**: 1 · **Closed issues**: 82 · **Open issues**: 5 · **Commits**: 1481
+- **Releases**: 46 · **Merged PRs**: 162 · **Open PRs**: 0 · **Closed issues**: 83 · **Open issues**: 5 · **Commits**: 1481
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 3 | 34 | 1 | 8 | 4 | 39 |
-| last60d | 2026-09-28 | 5 | 81 | 1 | 18 | 5 | 215 |
-| 90d | 2026-08-29 | 7 | 95 | 1 | 28 | 5 | 308 |
-| last180d | 2026-05-31 | 37 | 150 | 1 | 69 | 5 | 1158 |
-| 360d | 2025-12-02 | 46 | 162 | 1 | 82 | 5 | 1356 |
-| last720d | 2024-12-07 | 46 | 162 | 1 | 82 | 5 | 1481 |
+| 30d | 2026-10-29 | 3 | 33 | 0 | 9 | 4 | 0 |
+| last60d | 2026-09-29 | 5 | 79 | 0 | 17 | 5 | 0 |
+| 90d | 2026-08-30 | 7 | 94 | 0 | 29 | 5 | 0 |
+| last180d | 2026-06-01 | 37 | 150 | 0 | 70 | 5 | 0 |
+| 360d | 2025-12-03 | 46 | 162 | 0 | 83 | 5 | 0 |
+| last720d | 2024-12-08 | 46 | 162 | 0 | 83 | 5 | 1481 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for clin-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:17:34Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:29:35Z._
